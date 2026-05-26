@@ -1,3 +1,24 @@
+# Hi, I'm Adam
+
+I'm a Computer Science student interested in software development, cybersecurity, cloud computing, and backend systems.
+
+## Skills
+- Python, C/C++, JavaScript
+- Flask, REST APIs, Auth0, Google Cloud
+- Linux, Git, GitHub, AWS EC2
+- OpenMP, CUDA, MPI
+
+## Featured Projects
+- **Tarpaulin Course API** – REST API using Flask, Datastore, Auth0, and Google Cloud Storage
+- **Minecraft Server Deployment** – Ubuntu server setup with Java, systemd, and AWS EC2
+- **Android My City App** – A multi-screen Android app built with Kotlin and Jetpack Compose.
+- **CUDA Monte Carlo Simulation** – Parallel GPU simulation project
+- **Capstone Project** - Text Based Adventure Game with AI: DNDroids
+
+## Contact
+- Email: steinead@oregonstate.edu
+- GitHub: https://github.com/YOUR_USERNAME
+
 ## Capstone Project: DnDroids
 
 <img width="2550" height="1300" alt="Screenshot 2026-05-25 191552" src="https://github.com/user-attachments/assets/64afc83a-9ca4-40d8-805a-dcc765e3eb0b" />
